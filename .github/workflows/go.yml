@@ -15,7 +15,7 @@ jobs:
       PORT: 5432
       USER: root
       PASSWORD: root
-      DB_NAME: root
+      DBNAME: root
     strategy:
       matrix:
         go_version: ['1.18', '1.17', '>=1.18']
