@@ -12,4 +12,5 @@ COPY ./main main
 
 # Também podemos utilizar a palavra entrypont
 # ENTRYPOINT [ "./main" ]
+# Lá e de volta outra vez
 CMD [ "./main" ]
